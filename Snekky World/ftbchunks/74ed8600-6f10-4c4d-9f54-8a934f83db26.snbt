@@ -1,0 +1,102 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1718749749196L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 13, z: 1, time: 1717702191661L }
+			{ x: 13, z: 2, time: 1717702189453L }
+			{ x: 13, z: 3, time: 1717702189453L }
+			{ x: 11, z: 1, time: 1717702191661L }
+			{ x: 11, z: 2, time: 1717702185758L }
+			{ x: 13, z: 4, time: 1717702189453L }
+			{ x: 9, z: 0, time: 1717919243420L, force_loaded: 1717919245003L }
+			{ x: 9, z: 5, time: 1717702191661L }
+			{ x: 11, z: 3, time: 1717702184857L, force_loaded: 1718741986372L }
+			{ x: 13, z: 5, time: 1717702189453L }
+			{ x: 9, z: 1, time: 1717702191661L }
+			{ x: 11, z: 4, time: 1717702184858L, force_loaded: 1717854828979L }
+			{ x: 9, z: 2, time: 1717964485562L, force_loaded: 1717964496468L }
+			{ x: 11, z: 5, time: 1717702189453L, force_loaded: 1717849469302L }
+			{ x: 9, z: 3, time: 1717702191661L, force_loaded: 1717964496665L }
+			{ x: 9, z: 4, time: 1717702191661L }
+			{ x: -65, z: 4, time: 1718653119889L }
+			{ x: -65, z: 5, time: 1718576095762L, force_loaded: 1718576098709L }
+			{ x: -65, z: 6, time: 1718576095762L, force_loaded: 1718576099232L }
+			{ x: -67, z: 4, time: 1718653119889L }
+			{ x: -59, z: 133, time: 1718650729900L, force_loaded: 1718650730574L }
+			{ x: -59, z: 134, time: 1718650729900L, force_loaded: 1718650732221L }
+			{ x: -36, z: 68, time: 1717958903914L }
+			{ x: -65, z: 7, time: 1718576095762L, force_loaded: 1718576099501L }
+			{ x: -67, z: 5, time: 1718576095762L, force_loaded: 1718576098454L }
+			{ x: -36, z: 69, time: 1717958903913L }
+			{ x: -67, z: 6, time: 1718576095762L, force_loaded: 1718576098233L }
+			{ x: -67, z: 7, time: 1718576095762L, force_loaded: 1718576098057L }
+			{ x: 12, z: 1, time: 1717702191661L }
+			{ x: 12, z: 2, time: 1717702185356L }
+			{ x: 12, z: 3, time: 1717702185356L }
+			{ x: 10, z: 1, time: 1717702191661L }
+			{ x: 12, z: 4, time: 1717702185356L, force_loaded: 1717854828977L }
+			{ x: 8, z: 0, time: 1717919244055L, force_loaded: 1717919244917L }
+			{ x: 10, z: 2, time: 1717964485189L, force_loaded: 1717964492876L }
+			{ x: 10, z: 3, time: 1717702186372L, force_loaded: 1717964496228L }
+			{ x: 12, z: 5, time: 1717702189453L, force_loaded: 1717854828868L }
+			{ x: 10, z: 4, time: 1717702186372L, force_loaded: 1718741985268L }
+			{ x: 10, z: 5, time: 1717702189453L, force_loaded: 1718741985336L }
+			{ x: -66, z: 4, time: 1718653119889L }
+			{ x: -66, z: 5, time: 1718576095762L, force_loaded: 1718576097136L }
+			{ x: -66, z: 6, time: 1718576095762L, force_loaded: 1718576097975L }
+			{ x: -66, z: 7, time: 1718576095762L, force_loaded: 1718576097978L }
+		]
+		"minecraft:the_nether": [{ x: 1, z: 3, time: 1718740537375L, force_loaded: 1718740538550L }]
+	}
+	member_data: {
+		95484692-efa9-4f92-a33f-2ff3ddc2f239: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		a1825090-9368-427f-b50a-61d58a7f65e2: {
+			original_claims: {
+				"minecraft:overworld": [
+					{ x: 13, z: 1 }
+					{ x: 13, z: 2 }
+					{ x: 13, z: 3 }
+					{ x: 11, z: 1 }
+					{ x: 11, z: 2 }
+					{ x: 13, z: 4 }
+					{ x: 9, z: 5 }
+					{ x: 11, z: 3 }
+					{ x: 13, z: 5 }
+					{ x: 9, z: 1 }
+					{ x: 11, z: 4 }
+					{ x: 9, z: 2 }
+					{ x: 11, z: 5 }
+					{ x: 9, z: 3 }
+					{ x: 9, z: 4 }
+					{ x: 12, z: 1 }
+					{ x: 12, z: 2 }
+					{ x: 12, z: 3 }
+					{ x: 10, z: 1 }
+					{ x: 12, z: 4 }
+					{ x: 10, z: 2 }
+					{ x: 10, z: 3 }
+					{ x: 12, z: 5 }
+					{ x: 10, z: 4 }
+					{ x: 10, z: 5 }
+				]
+			}
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		f2276670-f2e4-4b19-85bc-762fead35514: {
+			original_claims: {
+				"minecraft:the_nether": [{ x: 1, z: 3 }]
+			}
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+	}
+}
