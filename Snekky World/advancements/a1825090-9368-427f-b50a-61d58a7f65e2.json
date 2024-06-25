@@ -23266,6 +23266,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_magenta_double": {
+    "criteria": {
+      "has_item": "2024-06-25 14:28:34 +0200"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/crafting_grid/black_crafting_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-06-08 15:43:28 +0200"

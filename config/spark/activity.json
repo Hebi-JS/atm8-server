@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "HebiJS",
+      "uniqueId": "a1825090-9368-427f-b50a-61d58a7f65e2"
+    },
+    "time": 1719136537387,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/mMFjOfWrIC"
+    }
+  }
+]
